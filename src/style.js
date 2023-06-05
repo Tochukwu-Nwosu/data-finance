@@ -3,7 +3,8 @@ const styles = {
     navHeading: 'w-full font-bold text-3xl text-lightGreen',
     hero: 'max-w-[800px] mt-[-96px] w-full h-screen mx-auto text-center flex flex-col justify-center items-center text-white',
     heroHeading2: 'text-xl sm:text-4xl font-bold md:text-5xl',
-    heroButton: 'bg-lightGreen w-[200px] rounded-md font-medium text-black my-6 py-3'
+    heroButton: 'bg-lightGreen w-[200px] rounded-md font-medium text-black my-6 py-3 hover:underline',
+    analyticsButton: 'bg-black w-[200px] rounded-md font-medium text-lightGreen my-6 py-3 mx-auto md:mx-0 hover:underline'
 } 
 
 export default styles
