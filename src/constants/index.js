@@ -45,3 +45,10 @@ export const analytics = {
     paragraph1: 'Data analytics dashboard',
     paragraph2: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur debitis accusantium dolores corrupti quibusdam recusandae eveniet reiciendis quo odio unde. Quidem distinctio esse tempora eaque natus assumenda ipsum, facere provident!'
 }
+
+export const newsletter = {
+    heading1: 'Want tips & tricks to optimize your flow?',
+    paragraph1: 'Sign up to our newsletter and stay up to date',
+    paragraph2: 'We care about the protection of your data. Read our ',
+    span: 'Privacy Policy.'
+}
