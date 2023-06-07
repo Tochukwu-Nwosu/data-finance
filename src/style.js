@@ -6,7 +6,8 @@ const styles = {
     lightButton: 'bg-lightGreen w-[200px] mx-auto rounded-md font-medium text-black my-6 py-3 hover:underline',
     darkButton: 'bg-black w-[200px] mx-auto rounded-md font-medium text-lightGreen my-6 py-3 hover:underline',
     analyticsButton: 'bg-black w-[200px] rounded-md font-medium text-lightGreen my-6 py-3 mx-auto md:mx-0 hover:underline',
-    newsletterButton: 'bg-lightGreen w-[200px] rounded-md font-medium text-black my-6 py-3 sm:ml-4 hover:underline'
+    newsletterButton: 'bg-lightGreen w-[200px] rounded-md font-medium text-black my-6 py-3 sm:ml-4 hover:underline',
+    card: 'w-full flex flex-col my-4 p-4 shadow-xl rounded-md text-center hover:scale-105 duration-300'
 } 
 
 export default styles

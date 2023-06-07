@@ -19,7 +19,7 @@ const Hero = () => {
                 loop
             />
         </div>
-        <p className='text-xl md:text-2xl font-bold text-gray-500'>{hero.paragraph2}</p>
+        <p className='text-xl px-2 md:text-2xl font-bold text-gray-500'>{hero.paragraph2}</p>
         <Button style={styles.lightButton} text='Get Started' />
       </div>
     </section>
