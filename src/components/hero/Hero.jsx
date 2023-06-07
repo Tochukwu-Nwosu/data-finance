@@ -20,7 +20,7 @@ const Hero = () => {
             />
         </div>
         <p className='text-xl md:text-2xl font-bold text-gray-500'>{hero.paragraph2}</p>
-        <Button style={styles.heroButton} text='Get Started' />
+        <Button style={styles.lightButton} text='Get Started' />
       </div>
     </section>
   )
