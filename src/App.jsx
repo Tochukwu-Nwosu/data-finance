@@ -4,6 +4,7 @@ import Hero from './components/hero/Hero'
 import Analytics from './components/analytics/Analytics'
 import Newsletter from './components/newsletter/Newsletter'
 import Cards from './components/cards/Cards'
+import Footer from './components/footer/Footer'
 
 class App extends Component {
   render() {
@@ -14,6 +15,7 @@ class App extends Component {
         <Analytics />
         <Newsletter />
         <Cards />
+        <Footer />
       </div>
     )
   }

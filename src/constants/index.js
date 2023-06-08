@@ -83,3 +83,26 @@ export const cards = {
         buttonStyle: styles.lightButton
     }
 }
+
+export const footer = {
+    paragraph: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam dolore sit quasi consequuntur nesciunt laudantium, harum necessitatibus ad quisquam incidunt delectus. In dolorem, excepturi impedit dicta nisi provident similique omnis.',
+}
+
+export const footerLinks = [
+    {
+        title: 'Solution',
+        links: [ 'Analytics', 'Marketing', 'Commerce', 'Insight' ]
+    },
+    {
+        title: 'Support',
+        links: [ 'Pricing', 'Documentation', 'Guides', 'API Status' ]
+    },
+    {
+        title: 'Company',
+        links: [ 'About', 'Blog', 'Jobs', 'Press', 'Careers' ]
+    },
+    {
+        title: 'Legal',
+        links: [ 'Claim', 'Policy', 'Terms' ]
+    }
+]
