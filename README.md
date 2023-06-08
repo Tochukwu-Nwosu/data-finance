@@ -34,3 +34,6 @@ The dependencies is found in the *package.json* file
     "vite": "^4.3.9"
   }
 ```
+
+## Contribution
+This project is adapted from [fireclint's data-finance project](https://github.com/fireclint/data-finance-react-tailwind) and developed by [Tochukwu-Nwosu](https://github.com/Tochukwu-Nwosu).
